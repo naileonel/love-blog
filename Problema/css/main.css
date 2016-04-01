@@ -1,0 +1,221 @@
+/*menu*/
+ * {
+   font-family: "Oswald";
+    }
+ 
+ .w-100 {
+   width: 100%;
+    }
+ 
+ .naranja {
+
+   color: #E8603C; 
+}
+.foto{
+	width: 100%;
+}
+.ninos{
+  width: 100%;
+}
+.caja-chica{
+  border-color: gray;
+}
+ 
+.size {
+   font-size: 1em !important;
+   font-family: "Helvetica";
+   font-weight: normal !important;
+   }
+
+   input{
+   	border-color:#E8603C !important;
+   }
+   textarea{
+   	border-color: #E8603C !important
+   }
+   button{
+   	background-color:#E8603C !important; 
+   	margin-left: -55%;
+
+   }
+ .borde{
+ 	padding: 1em 8em;
+ 	border-color: #E8603C ;
+ }
+ /*Margenes y paddings */
+ .mt_4 {
+   margin-top: -4em; }
+ 
+ .mt-5 {
+   margin-top: 5%; }
+ 
+ .mb-5 {
+   margin-bottom: 5%; }
+ 
+ blockquote {
+   border-left: 1em solid #E8603C !important; }
+ 
+ /*Menu */
+ .navbar-default {
+   background-color: white;
+   border-color: white;
+   padding-top: 1%;
+   height: 6em; }
+ 
+ .navbar-brand {
+   font-size: 3em !important;
+   font-weight: bolder;
+   color: #E8603C !important; }
+   .navbar-brand span {
+     color: #F3AF9D !important; }
+ 
+ .activ a {
+   color: #E8603C !important;
+   font-weight: bolder;
+    }
+  .color{
+  	color:gray;
+  }
+  .mapa{
+  	width: 100%;
+  	height: 150% !important;
+  }
+ 
+ /*header */
+ .main_content_area {
+   margin-top: -2.5em; }
+ 
+ .header_bottom_area {
+   background: #F3AF9D;
+   min-height: 2.5em; }
+ 
+ .content_area {
+   background: none repeat scroll 0 0 #FFFFFF;
+   border-left: 0.5em solid #FFFFFF;
+   border-right: 0.5em solid #FFFFFF; }
+ 
+ .service_area {
+   margin-top: 3em; }
+ 
+ .portfolio {
+   background-image: url("../images/portfolio.png");
+   background-repeat: no-repeat;
+   background-position: scroll left;
+   padding-left: 4em; }
+ 
+ .offer {
+   background-image: url("../images/offer.png");
+   background-repeat: no-repeat;
+   background-position: scroll left;
+   padding-left: 4em; }
+ 
+ .follow {
+   background-image: url("../images/follow.png");
+   background-repeat: no-repeat;
+   background-position: scroll left;
+   padding-left: 4em; }
+ 
+ .btn-orange {
+   color: white !important;
+   background-color: #E8603C !important;
+   padding: 1% 5% !important;
+   margin-top: 5% !important; }
+ 
+ .from_blog h2, .from_works h2, .barra_background_common h2 {
+   background: url("../images/heading-bg.png") !important;
+   background-repeat: repeat-x !important;
+   font-size: 2em !important;
+   margin-left: 5.5em !important;
+   line-height: 1.25em !important;
+   margin-bottom: 1em !important;
+   margin-top: 1em !important; }
+ .from_blog span, .from_works span, .barra_background_common span {
+   margin-left: -6em !important; }
+ 
+ .single_blog_post h3, .single_work h3 {
+   color: #999999;
+   font-size: 1.8em;
+   margin-bottom: 2px; }
+ 
+ .single_blog_post h4, .single_work h4 {
+   color: #E8603C;
+   font-size: 1em; }
+ 
+ /*bordes de lados caja grande */
+ .caja-grande {
+   border-bottom: 1px solid #999999;
+   border-left: 1px solid #999999;
+   border-right: 1px solid #999999;
+   padding-left: 2.1em;
+   padding-top: 1.1em; }
+/*bordes de lados caja chica */
+.caja-chica{
+  border-bottom: 1px solid #999999;
+  border-left: 1px solid #999999;
+  border-right: 1px solid #999999;
+  margin-bottom: 3em;
+}
+.caja-gris{
+  background-color: gray
+}
+ 
+/*footer */
+ .footer_area {
+   background: 0 0 #F3AF9D;
+   background-repeat: none repeat scroll;
+   margin-top: 40px; }
+ 
+ .footer {
+   background: 0 0 #E8603C;
+   background-repeat: none repeat scroll;
+   border-left: 1em solid #FFFFFF;
+   border-right: 1em solid #FFFFFF;
+   margin: 0 auto;
+   padding: 2em 0; }
+ 
+ .single_footer_container {
+   margin-left: -2.1em; }
+ 
+ .single_footer {
+   color: #FFFFFF;
+   margin-left: 2.1em;
+   padding: 1em; }
+ 
+
+ /*about us */
+ .orange_bar_title {
+   background: 0 0 #E8603C;
+   background-repeat: none repeat scroll;
+   min-height: 3em;
+   margin-bottom: 1em; }
+   .orange_bar_title h1 {
+     color: #FFFFFF;
+     font-size: 2em;
+     line-height: 1.5em;
+     padding-left: 1em; }
+ 
+ .author {
+   float: left;
+   margin-bottom: 1.2em;
+   margin-right: 1.2em;
+   padding: 0.5em; }
+ 
+ .barra_background_common h2 {
+   color: #E8603C;
+   font-size: 1.8em;
+   margin-bottom: 2px; }
+ 
+ .categories {
+   list-style: none;
+   margin: 0;
+   padding: 0; }
+   .categories a {
+     color: black;
+     text-decoration: none;
+     font-size: 1.2em; }
+.caja-gris{
+  background-color: #E6E6E6;
+}
+.mt-2{
+  padding-top: 2em !important;
+}
